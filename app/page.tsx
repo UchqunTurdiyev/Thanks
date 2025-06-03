@@ -67,7 +67,7 @@ const Home = () => {
         }
 
         .instagram-button:hover {
-          background-color: #ff3355;
+          background-color:rgb(51, 255, 99);
         }
 
         .instagram-icon {
